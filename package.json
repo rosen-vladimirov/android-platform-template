@@ -1,0 +1,19 @@
+{
+  "name": "android-platform-template",
+  "version": "1.0.0",
+  "description": "Custom Android platform template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosen-vladimirov/android-platform-template.git"
+  },
+  "author": "Rosen Vladimirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosen-vladimirov/android-platform-template/issues"
+  },
+  "homepage": "https://github.com/rosen-vladimirov/android-platform-template#readme"
+}
