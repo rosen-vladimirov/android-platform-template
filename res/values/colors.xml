@@ -2,5 +2,5 @@
 <resources>
     <color name="ns_primary">#7FFF00</color>
 	<color name="ns_primaryDark">#00FFFF</color>
-	<color name="ns_accent">#33B5E5</color>
+	<color name="ns_accent">#DAA520</color>
 </resources>
