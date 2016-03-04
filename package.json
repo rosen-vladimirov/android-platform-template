@@ -1,6 +1,6 @@
 {
-  "name": "android-platform-template",
-  "version": "1.0.0",
+  "name": "test-android-platform-template",
+  "version": "0.0.1",
   "description": "Custom Android platform template",
   "main": "index.js",
   "scripts": {
